@@ -1,2 +1,2 @@
-# passwordmanager
-Password manager app
+# 🎲Passwordmanager🎲
+A simple python script to manage your passwords...
